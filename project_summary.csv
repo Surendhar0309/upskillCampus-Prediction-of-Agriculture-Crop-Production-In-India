@@ -1,0 +1,8 @@
+Metric,Value
+Dataset Rows,49
+Dataset Features,6
+Train Samples,39
+Test Samples,10
+Best Model,Random Forest
+Best R2,0.9377
+Total Plots,13
